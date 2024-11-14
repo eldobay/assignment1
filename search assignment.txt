@@ -1,0 +1,18 @@
+1- why the output of this Equation = $30.00?
+عشان (:c) بتعرض الرقم بالدولار 
+
+
+2-what is its benefit?
+1- سهولة القراءه بالنسبه لليوزر
+2- عدم الحاجه لتنسيق الرقم يدوياا
+3-ضمان القيم الصحيحه للعملات 
+
+
+3-int X = 10;
+int Y = 20;
+Console.WriteLine($"Equation: {X} + {Y} = {X + Y:f}");
+
+
+4-int X = 10;
+int Y = 20;
+Console.WriteLine($"Equation: {X} + {Y} = {X + Y:d}");
